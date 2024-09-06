@@ -26,7 +26,7 @@
 		
 		</div>
 		<div class="wrap-butons">
-			<button style="width:100%" type="submit" class="btn add-to-cart"> Book now </button>
+			<button style="width:100%" type="submit" class="btn add-to-cart">Reserve Now </button>
             <div class="wrap-btn">
                 <a href="#" class="btn btn-compare">Add Compare</a>
                 <a href="#" class="btn btn-wishlist">Add Wishlist</a>
