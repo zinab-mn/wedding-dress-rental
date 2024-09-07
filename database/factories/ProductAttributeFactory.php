@@ -14,7 +14,7 @@ class ProductAttributeFactory extends Factory
     public function definition()
     {
         return [
-            'name' => 'one size',
+            'name' => 'size',
         ];
     }
 }
